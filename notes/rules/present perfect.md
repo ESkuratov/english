@@ -8,6 +8,29 @@
 * Sam has cleaned his room. (=The room is clean now).
 * Jake has told Kate about the party. (=Now Kate knows about the party)
 
+**Been (to)** = visited:  
+I've never been to China. Have you been there?
+
+In the following examples too, the speakers are talking about a period that continues until now (**recently / in the last few days / so far / since breakfast etc.**):
+* **Have** you **heard** from Brian recently?
+* **I've met** a lot of people in the last few days.
+* Everything is going well. We **haven't had** any problems so far.
+* I'm hungry. I **haven't eaten** anything **since breakfast**. ( = from breakfast until now)
+* It's good to see you again. We **haven't seen** each other **for a long time**.
+
+We use the present perfect with **today / this evening / this year** etc. when these periods are not finished at the time of speaking:
+* I've drunk four cups of coffee today.
+* Have you had a holiday this year (yet)?
+* I haven't seen Tom this morning. Have you? (it's still morning)
+* Rob hasn't studied very hard this term.
+
+We say: It's the (first) time something **has happened**. For example:
+* Don is having a driving lesson. It's his first one.
+* It's the first time he has driven a car. or He has never driven a car before.
+* Sarah has lost her passport again. This is the second time this has happened.
+* Bill is phoning his girlfriend again. That's the third time he's phoned her this evening.
+
+
 **When we say that "something has happened", this is usually new information:**
 * Ow! I've cut my finger.
 * The road is closed. There has been an accident. 

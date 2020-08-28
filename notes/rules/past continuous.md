@@ -1,6 +1,7 @@
 # Past continuous
 
 I was doing something = I was in the middle of doing something at a certain time.  
+
 The action or situation had already started before this time, but had not finished:  
 * This time last year I was living in Brazil.
 * What were you doing at 10 o'clock last night?
@@ -9,7 +10,7 @@ The action or situation had already started before this time, but had not finish
   
 We often use the past simple and the past continuous together to say that something happened in the middle of something else:  
 * I was walking home when I met Dave. (in the middle of an action)
-* Kate was watching television when we arrived."
+* Kate was watching television when we arrived.
 * Matt phoned while we were having dinner.
 * It was raining when I got up.
 * I saw you in the park yesterday. You were sitting on the grass and reading a book.

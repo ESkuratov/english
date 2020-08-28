@@ -55,7 +55,7 @@ After comparatives you can use than:
 - badly - worse
 - little - less
 - much - more
-- early - earlier
+
 
 
 **Examples:**

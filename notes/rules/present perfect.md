@@ -39,3 +39,31 @@ We say: It's the (first) time something **has happened**. For example:
 * It's the first time he has driven a car.
 * or He has never driven a car before."
 * Bill is phoning his girlfriend again. That's the third time he's phoned her this evening.
+
+# How long
+
+**I have known/had/lived etc.** is the present perfect simple.  
+**I have been learning / been waiting / been doing etc.** is the present perfect continuous.
+
+> We use for and since to say how long something has been happening.
+
+**We use for + a period of time (two hours, six weeks etc.):**
+- I've been waiting for two hours.
+- Sally has been working here for six months. (not since six months)
+- I haven't seen Tom for three days. (not since three days)
+
+**We use since + the start of a period (8 o'clock, Monday, 1999 etc.):**
+- I've been waiting since 8 o'clock.
+- Sally has been working here since April. (= from April until now)
+- I haven't seen Tom since Monday. (= from Monday until now)
+
+**We say "It's (a long time / two years etc.) since something happened":**
+ - It's two years since I last saw Joe. (= I haven't seen Joe for two years)
+ - It's ages since we went to the cinema. (= We haven't been to the cinema for ages)
+
+**You can ask "How long is it since...?":**
+- How long is it since you last saw Joe? (= When did you last see Joe?)
+- How long is it since Mrs Hill died? (= When did Mrs Hill die?)
+
+**You can also say "It's been (= It has been)... since... ":**
+- It's been two years since I last saw Joe.

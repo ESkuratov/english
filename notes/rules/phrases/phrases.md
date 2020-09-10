@@ -37,6 +37,7 @@ to come in - to come or go into.
 to get on with - to have a friendly relationship with somebody  
 to get into trouble	- попасть в беду  
 to get along - быть в хороших отношениях  
+to get off - to leave the place
 to give up - to stop doing or to stop having something  
 to give back - возвращать 
 to go away	- уходить, leave a place 
@@ -81,7 +82,20 @@ on the one hand - с одной стороны
 on the other hand - с другой стороны
 as for me - что касается меня
 
-I think (that)
-I believe (that)
-I am sure (that)
-however
+I think (that)  
+I believe (that)  
+I am sure (that)  
+however  
+
+keep in mind - to remember, иметь ввиду
+to socialize - to meet and spend time with people in a friendly way, in order to enjoy yourself;
+to shake hands with - take someone's right hand in your own for a few moments, when you are saying hello to them;
+negotiations - formal discussions between people;
+hugs - actions when you put your arms around somebody to show that you like or love them.
+to bow - to move your head forwards and downwards as a sign of respect or to say hello or goodbye
+acceptable - good enough;
+to nod - to move your head up and down to show agreement or understanding;
+sudden - happening quickly and unexpectedly;
+
+to carry on - to continue
+giving us up - ending our relationship or friendship

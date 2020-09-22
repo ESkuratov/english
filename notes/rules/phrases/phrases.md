@@ -34,10 +34,11 @@ to be over - to be finished or no longer affected by something
 to call back - перезванивать 
 to chek in -	to show you ticket at an airport so that you can be told where you will be sitting and so that your bags can be put on the aircraft  
 to come in - to come or go into. 
-to get on with - to have a friendly relationship with somebody  
-to get into trouble	- попасть в беду  
-to get along - быть в хороших отношениях  
-to get off - to leave the place
+
+
+
+
+
 to give up - to stop doing or to stop having something  
 to give back - возвращать 
 to go away	- уходить, leave a place 

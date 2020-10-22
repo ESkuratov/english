@@ -23,3 +23,18 @@ were we/you/they?
 
 Was the weather good when you were on holiday?
 Did you go out last night or were you too tired?
+
+
+## Usage  
+
+Habits and repeated actions in the past
+- We travelled a lot when I was a child.
+
+Completed actions in the past
+- We saw a new Avengers film yesterday.
+
+General truths about the past
+- In the 18th century, women didn't have the right to vote.
+
+Main events in a story
+- He pushed the door open and stepped into the room.

@@ -96,14 +96,13 @@ We also use more ... for adverbs that end in -ly:
 - a bit
 - a little
 - slightly (= a little)
-
-**Examples:**
-- Let's go by car. It's **much cheaper**. (or **a lot cheaper**)
-- "How do you feel?" "**Much better**, thanks."
-- Don't go by train. It's **a lot more expensive**. (or **much more expensive**)
-- Could you speak **a bit more slowly**? (or **a little more slowly**)
-- This bag is **slightly heavier** than the other one.
-- Her illness was **far more serious** than we thought at first. (or **much more serious / a bit more serious**)
+>**Examples:**  
+ Let's go by car. It's **much cheaper**. (or **a lot cheaper**)  
+ "How do you feel?" "**Much better**, thanks."  
+ Don't go by train. It's **a lot more expensive**. (or **much more expensive**)  
+ Could you speak **a bit more slowly**? (or **a little more slowly**)  
+ This bag is **slightly heavier** than the other one.  
+ Her illness was **far more serious** than we thought at first. (or **much more serious / a bit more serious**)
 
 You can use **any** and **no** + comparative (**any longer / no bigger** etc.):
 - I've waited long enough. I'm not waiting **any longer**. (= not even a little longer)

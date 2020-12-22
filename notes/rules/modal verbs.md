@@ -1,15 +1,15 @@
 # Modal verbs
 
  **You shouldn't** answer the phone if you're talking to a shop assistant. — 
-I think it's a bad thing to do this.
+I think it's a bad thing to do this.  
 **You have to** switch off your mobile when you fly. — 
-Do this because it's a rule or the law.
+Do this because it's a rule or the law.  
 **You mustn't** use your phone until the plane is landed. — 
-Don't do this. It isn't allowed/permitted.
+Don't do this. It isn't allowed/permitted.  
 **You don't have to** shout — the other person can hear you. — 
-You don't need to do this. It isn't necessary.
+You don't need to do this. It isn't necessary.  
 **You should** talk really quietly if you are in a public place. — 
-I think it's a good thing to do this.
+I think it's a good thing to do this.  
 
 
 High level of probability or confidence  

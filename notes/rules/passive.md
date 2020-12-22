@@ -68,6 +68,31 @@ passive: was/were + being (done)
 The room was being cleaned when I arrived.
 
 
+
+Tense	Passive form	
+Present Simple
+- Our office is cleaned every day.	
+Present Continuous	
+- My room is being redecorated at the moment.	
+Present Perfect	
+- My bike has been stolen!	
+Past Simple	
+- Harry Potter books were written by J. K. Rowling.	
+Future Simple	
+- My watch will be repaired tomorrow.	
+Modal Verbs	Uniforms must be worn at all times.	
+- Vitamins should be taken regularly.	
+		
+Usage		
+We use passive voice when the object is more important than who does the action.	Several people were injured in the accident. I was bitten by a dog when I was a child.	
+		
+We use passive voice when we don’t know who does the action.	My keys were stolen yesterday. This church was built in the 19th century.	
+		
+We use passive voice when we can understand who does the action from the context.	The criminals will be arrested soon. (by the police) How often is your room cleaned? (by you)	
+		
+We use by to add the agent to the passive voice.	The telephone was invented by Alexander Bell. The renovations have been done by my friend.	
+		
+
 be — was/were — been
 beat — beat — beaten
 become — became — become

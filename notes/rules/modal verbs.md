@@ -35,3 +35,11 @@ Expectations
 - should/ought to + infinitive
   - Ah, a message! This should be from Sheyla.
   - Mary has been cleaning all day, she ought to finish by now.
+
+
+## Deductions about the present
+  
+He must be unwell. /certainty  
+He might not be sleeping well. /possibility  
+He may be stressed. / possibility more formal  
+He can't be feeling well. /certainty  

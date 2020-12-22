@@ -39,4 +39,3 @@ for a minute, an hour, five days, years, ages, long time
 		
 **Point in time**  
 since monday, 6 oçlock, December, july 24th, 1995, New Year's Eve, i was a child
-		

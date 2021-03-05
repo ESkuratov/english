@@ -67,3 +67,25 @@ We say: It's the (first) time something **has happened**. For example:
 
 **You can also say "It's been (= It has been)... since... ":**
 - It's been two years since I last saw Joe.
+
+
+---
+>Do not use the present perfect (I have done) when you talk about a **finished time** (for example, yesterday / ten minutes ago / in 1999 / when I was a child). Use a past tense:
+- It was very cold yesterday. (not has been)
+- Paul and Lucy arrived ten minutes ago. (not have arrived)
+- Did you eat a lot of sweets when you were a child? (not have you eaten)
+- I got home late last night. I was very tired and went straight to bed.
+  
+>Use the past to ask When...? or What time...?:
+- When did your friends arrive? (not have ... arrived)
+- What time did you finish work?
+
+  
+**Compare**  
+Present perfect: 
+- Tom has lost his key. He can't get into the house.
+- Is Carla here or has she left?
+
+Past simple:  
+- Tom lost his key yesterday. He couldn't get into the house.
+- When did Carla leave?

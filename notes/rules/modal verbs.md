@@ -1,4 +1,14 @@
 # Modal verbs
+**Should** is used to give advice to someone.  
+**Have to and must** are both used to express obligation. There is a slight difference between the way they are used.  
+**Have to** shows us that the obligation comes from somebody else. It's a law or a rule, and the speaker can't change it.  
+**Must** shows us that the obligation comes from the speaker. It isn't a law or a rule.  
+We use **need to** to say that something is necessary or important.  
+We use **mustn't/must not** to say that something is forbidden or a bad idea.  
+We use **don't have to/didn't have to/needn't/don't need to** to show that there is no obligation. You can do something if you want to, but it's not compulsory.  
+We use **must** to give strong advice.  
+   
+--- 
 
  **You shouldn't** answer the phone if you're talking to a shop assistant. — 
 I think it's a bad thing to do this.  

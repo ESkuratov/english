@@ -19,8 +19,8 @@
 > Ann knows **them**.  
 > object: me us you him her them
 
-> I don’twant **this book**.You can have **it**.  
-> I don’twant **these books**.You can have **them**.  
+> I don’t want **this book**.You can have **it**.  
+> I don’t want **these books**.You can have **them**.  
 > Diane never drinks **milk**. She doesn't like **it**.  
 > I never go to **parties**. I don't like **them**.  
 
@@ -45,4 +45,6 @@
 > - I didn’t have an umbrella, so Ann gave me **hers**. (= her umbrella) 
 > - It’s their problem, not **ours**. (= not our problem)
 > - We went in our car and they went in **theirs**. (= their car)
+
+https://www.grammarly.com/blog/reflexive-pronouns/
 

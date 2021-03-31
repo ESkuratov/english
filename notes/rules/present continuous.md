@@ -59,3 +59,30 @@ The action is not complete.
 **When think means "consider", the continuous is possible:**	 
 - I'm thinking about what happened. I often think about it.
 - Nicky is thinking of giving up her job. (= she is considering it)
+
+
+## Present Tenses for the Future
+
+I’m doing something (tomorrow) = I have already decided and arranged to do it:
+- What **are you doing** on Saturday evening? (not What do you do). **I’m going** to the theatre. (not I go)
+- What time **is Cathy arriving** tomorrow? Half past ten. **I’m meeting** her at the station.
+- I’m not working tomorrow, so we can go out somewhere.
+- Ian isn’t playing football next Saturday. He’s hurt his leg.
+
+
+"I’m going to (do)" is also possible in these sentences:
+- What are you going to do on Saturday evening?
+
+But present continuous is more natural for arrangements.
+Do not use will to talk about what you have arranged to do:
+
+- What are you doing this evening? (not What will you do)
+- Alex is getting married next month. (not will get)
+
+You can also use present continuous for an action just before you begin to do it. This happens especially with verbs of movement (go / come / leave etc.):
+- I’m tired. I’m going to bed now. Goodnight. (not I go to bed now)
+- "Tina, are you ready yet?"   "Yes, I’m coming." (not I come)
+
+
+But present continuous is more usual for personal arrangements:
+- What time are you meeting Ann tomorrow? (not do you meet)
